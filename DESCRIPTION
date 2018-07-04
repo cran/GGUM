@@ -1,6 +1,6 @@
 Package: GGUM
 Title: Generalized Graded Unfolding Model
-Version: 0.3.1
+Version: 0.3.2
 Authors@R: c(
   person("Jorge N.", "Tendeiro", email = "j.n.tendeiro@rug.nl", role = c("aut","cre")),
   person("Sebastian", "Castro-Alvarez", email = "secastroal@gmail.com", role = "aut"))
@@ -12,9 +12,9 @@ LazyData: true
 RoxygenNote: 6.0.1
 URL: http://github.com/jorgetendeiro/GGUM
 NeedsCompilation: no
-Packaged: 2018-01-25 22:08:06 UTC; bigoten
+Packaged: 2018-07-04 08:59:30 UTC; p250795
 Author: Jorge N. Tendeiro [aut, cre],
   Sebastian Castro-Alvarez [aut]
 Maintainer: Jorge N. Tendeiro <j.n.tendeiro@rug.nl>
 Repository: CRAN
-Date/Publication: 2018-01-26 09:33:28 UTC
+Date/Publication: 2018-07-04 09:20:06 UTC
